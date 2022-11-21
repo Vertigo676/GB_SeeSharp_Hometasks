@@ -4,5 +4,22 @@
 // 78 -> третьей цифры нет
 // 32679 -> 6
 
-Console.WriteLine("Введите число: ");
-int number = Convert.ToInt32(ReadLine());
+Console.WriteLine("Введите любое число: ");
+int number = Convert.ToInt32(Console.ReadLine());
+
+string str = number.ToString();
+// Console.WriteLine(str);
+while(number >= 100)
+{
+    Console.WriteLine(str[2]);
+    break;
+}
+while(number <= -100)
+{
+    Console.WriteLine(str[3]);
+    break;
+}
+if(number <= 99 || number >= -99)
+{
+    Console.WriteLine("Третьей цифры нет");
+}

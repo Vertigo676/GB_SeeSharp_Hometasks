@@ -4,5 +4,5 @@
 // 7 -> да
 // 1 -> нет
 
-Console.WriteLine("Введите цифру: ");
+Console.WriteLine("Введите любое число: ");
 int number = Convert.ToInt32(ReadLine());
