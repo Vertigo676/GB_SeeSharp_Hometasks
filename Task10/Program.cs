@@ -5,9 +5,9 @@
 // 918 -> 1
 
 int number = new Random().Next(100, 1000);
-Console.WriteLine($"Случайное число {number}");
+Console.WriteLine($"Ваше счастливое число - {number}");
 
 int digit1 = number/10;
 int digit2 = digit1%10;
 
-Console.WriteLine(digit2);
+Console.WriteLine($"И вторая цифра Вашего счастливого числа от 100 до 1000 это {digit2}");
