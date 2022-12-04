@@ -4,11 +4,11 @@
 // 9012 -> 12
 Console.WriteLine("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
-string A = number.ToString();
+int[] array = new int[number];
 int sum = 0;
-for(int i = 0; i < A.Length; i++)
+for(int i = 0; i < array.Length; i++)
 {
-   sum = sum + A[i];
+   sum = sum + array[i];
 }
 
 Console.WriteLine("Сумма всех элементов числа равна: " + sum);
