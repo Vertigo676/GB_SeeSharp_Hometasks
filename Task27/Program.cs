@@ -11,4 +11,4 @@ for(int i = 0; i < array.Length; i++)
    sum = sum + array[i];
 }
 
-Console.WriteLine(sum);
+Console.WriteLine("Сумма всех элементов введённого числа равна: " + sum1);
