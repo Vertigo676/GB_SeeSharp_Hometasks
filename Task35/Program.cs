@@ -24,4 +24,4 @@ for (int i = 0; i < array.Length; i++)
     if(array[i] > 10 & array[i] < 99)
     count++;
 }
-Console.Write("В данном массиве количество цифр больше 10, но меньше 99: " + count);
+Console.Write("В данном массиве число цифр больше 10, но меньше 99: " + count);
