@@ -4,7 +4,9 @@
 
 double [] array = new double [7];
 Random rnd = new Random();
-
+double minValue = array[0];
+double maxValue = array [0];
+double result = maxValue - minValue;
 for(int i = 0; i < array.Length; i++)
 {
     array[i] = new Random().NextDouble();
@@ -13,9 +15,9 @@ for(int i = 0; i < array.Length; i++)
 
 Console.Write(string.Join(" | ", array));
 
- double minValue = array[0];
- double maxValue = array [0];
- double result = maxValue - minValue;
+//  double minValue = array[0];
+//  double maxValue = array [0];
+//  double result = maxValue - minValue;
  for( int i = 1; i < array.Length; i++)
  { 
      for( int j = 1; j < array.Length; j++)
