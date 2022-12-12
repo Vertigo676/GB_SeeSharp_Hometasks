@@ -4,9 +4,6 @@
 
 double [] array = new double [7];
 Random rnd = new Random();
-double minValue = array[0];
-double maxValue = array [0];
-double result = maxValue - minValue;
 for(int i = 0; i < array.Length; i++)
 {
     array[i] = new Random().NextDouble();
@@ -15,21 +12,24 @@ for(int i = 0; i < array.Length; i++)
 
 Console.Write(string.Join(" | ", array));
 
-//  double minValue = array[0];
-//  double maxValue = array [0];
-//  double result = maxValue - minValue;
- for( int i = 1; i < array.Length; i++)
- { 
-     for( int j = 1; j < array.Length; j++)
-     {
-     if(array[0] < array[i])
-         {
-             minValue = array[i];
-         }
-     if(array[0] > array[j])
-         {
-              maxValue = array[j];
-         }
+double max = array[0];
+double min = array[0];
+for(int i = 0; i < array.Length; i++)
+{
+    if(max < array[i])
+    {
+        max = array[i];
     }
- }
- Console.Write(result);
+    if(min > array[i])
+    {
+        min = array[i];
+    }
+}
+double result = Math.Round((max - min), 2);
+Console.WriteLine(" ");
+Console.WriteLine(" ");
+Console.WriteLine("Наибольше число показанного массива равно " + max);
+Console.WriteLine(" ");
+Console.WriteLine("Наименьшее число показанного масиива равно " + min);
+Console.WriteLine(" ");
+Console.WriteLine("Разница между наибольшим и наименьшим числами равна " + result);
