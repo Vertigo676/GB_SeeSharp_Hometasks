@@ -1,0 +1,15 @@
+D:\GB\GB_SeeSharp_Hometasks\Task41\obj\Debug\net6.0\Task41.csproj.AssemblyReference.cache
+D:\GB\GB_SeeSharp_Hometasks\Task41\obj\Debug\net6.0\Task41.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\GB_SeeSharp_Hometasks\Task41\obj\Debug\net6.0\Task41.AssemblyInfoInputs.cache
+D:\GB\GB_SeeSharp_Hometasks\Task41\obj\Debug\net6.0\Task41.AssemblyInfo.cs
+D:\GB\GB_SeeSharp_Hometasks\Task41\obj\Debug\net6.0\Task41.csproj.CoreCompileInputs.cache
+D:\GB\GB_SeeSharp_Hometasks\Task41\bin\Debug\net6.0\Task41.exe
+D:\GB\GB_SeeSharp_Hometasks\Task41\bin\Debug\net6.0\Task41.deps.json
+D:\GB\GB_SeeSharp_Hometasks\Task41\bin\Debug\net6.0\Task41.runtimeconfig.json
+D:\GB\GB_SeeSharp_Hometasks\Task41\bin\Debug\net6.0\Task41.dll
+D:\GB\GB_SeeSharp_Hometasks\Task41\bin\Debug\net6.0\Task41.pdb
+D:\GB\GB_SeeSharp_Hometasks\Task41\obj\Debug\net6.0\Task41.dll
+D:\GB\GB_SeeSharp_Hometasks\Task41\obj\Debug\net6.0\refint\Task41.dll
+D:\GB\GB_SeeSharp_Hometasks\Task41\obj\Debug\net6.0\Task41.pdb
+D:\GB\GB_SeeSharp_Hometasks\Task41\obj\Debug\net6.0\Task41.genruntimeconfig.cache
+D:\GB\GB_SeeSharp_Hometasks\Task41\obj\Debug\net6.0\ref\Task41.dll
