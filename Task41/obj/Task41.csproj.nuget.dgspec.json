@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GB\\GB_SeeSharp_Hometasks\\Task29\\Task29.csproj": {}
+    "D:\\GB\\GB_SeeSharp_Hometasks\\Task41\\Task41.csproj": {}
   },
   "projects": {
-    "D:\\GB\\GB_SeeSharp_Hometasks\\Task29\\Task29.csproj": {
+    "D:\\GB\\GB_SeeSharp_Hometasks\\Task41\\Task41.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GB\\GB_SeeSharp_Hometasks\\Task29\\Task29.csproj",
-        "projectName": "Task29",
-        "projectPath": "D:\\GB\\GB_SeeSharp_Hometasks\\Task29\\Task29.csproj",
+        "projectUniqueName": "D:\\GB\\GB_SeeSharp_Hometasks\\Task41\\Task41.csproj",
+        "projectName": "Task41",
+        "projectPath": "D:\\GB\\GB_SeeSharp_Hometasks\\Task41\\Task41.csproj",
         "packagesPath": "C:\\Users\\Дашенька\\.nuget\\packages\\",
-        "outputPath": "D:\\GB\\GB_SeeSharp_Hometasks\\Task29\\obj\\",
+        "outputPath": "D:\\GB\\GB_SeeSharp_Hometasks\\Task41\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Дашенька\\AppData\\Roaming\\NuGet\\NuGet.Config"

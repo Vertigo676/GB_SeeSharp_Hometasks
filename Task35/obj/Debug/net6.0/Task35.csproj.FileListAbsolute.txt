@@ -1,0 +1,15 @@
+D:\GB\GB_SeeSharp_Hometasks\Task35\obj\Debug\net6.0\Task35.csproj.AssemblyReference.cache
+D:\GB\GB_SeeSharp_Hometasks\Task35\obj\Debug\net6.0\Task35.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\GB_SeeSharp_Hometasks\Task35\obj\Debug\net6.0\Task35.AssemblyInfoInputs.cache
+D:\GB\GB_SeeSharp_Hometasks\Task35\obj\Debug\net6.0\Task35.AssemblyInfo.cs
+D:\GB\GB_SeeSharp_Hometasks\Task35\obj\Debug\net6.0\Task35.csproj.CoreCompileInputs.cache
+D:\GB\GB_SeeSharp_Hometasks\Task35\bin\Debug\net6.0\Task35.exe
+D:\GB\GB_SeeSharp_Hometasks\Task35\bin\Debug\net6.0\Task35.deps.json
+D:\GB\GB_SeeSharp_Hometasks\Task35\bin\Debug\net6.0\Task35.runtimeconfig.json
+D:\GB\GB_SeeSharp_Hometasks\Task35\bin\Debug\net6.0\Task35.dll
+D:\GB\GB_SeeSharp_Hometasks\Task35\bin\Debug\net6.0\Task35.pdb
+D:\GB\GB_SeeSharp_Hometasks\Task35\obj\Debug\net6.0\Task35.dll
+D:\GB\GB_SeeSharp_Hometasks\Task35\obj\Debug\net6.0\refint\Task35.dll
+D:\GB\GB_SeeSharp_Hometasks\Task35\obj\Debug\net6.0\Task35.pdb
+D:\GB\GB_SeeSharp_Hometasks\Task35\obj\Debug\net6.0\Task35.genruntimeconfig.cache
+D:\GB\GB_SeeSharp_Hometasks\Task35\obj\Debug\net6.0\ref\Task35.dll

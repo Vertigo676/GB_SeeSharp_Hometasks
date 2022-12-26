@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GB\\GB_SeeSharp_Hometasks\\Task29\\Task29.csproj",
-      "projectName": "Task29",
-      "projectPath": "D:\\GB\\GB_SeeSharp_Hometasks\\Task29\\Task29.csproj",
+      "projectUniqueName": "D:\\GB\\GB_SeeSharp_Hometasks\\Task50\\Task50.csproj",
+      "projectName": "Task50",
+      "projectPath": "D:\\GB\\GB_SeeSharp_Hometasks\\Task50\\Task50.csproj",
       "packagesPath": "C:\\Users\\Дашенька\\.nuget\\packages\\",
-      "outputPath": "D:\\GB\\GB_SeeSharp_Hometasks\\Task29\\obj\\",
+      "outputPath": "D:\\GB\\GB_SeeSharp_Hometasks\\Task50\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Дашенька\\AppData\\Roaming\\NuGet\\NuGet.Config"
