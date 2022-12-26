@@ -39,12 +39,15 @@ int n = Convert.ToInt32(Console.ReadLine());
 int [,] matrix = FillMatrix(m,n);
 PrintMatrix(matrix);
 Console.WriteLine();
+
 for( int i = 0; i < matrix.GetLength(0); i++)
 {
+    int sum = 0;
     for( int j = 0; j < matrix.GetLength(1); j++)
     {
-        int sum = matrix[i,j] + matrix[i + 1, j + 1];
-        Console.WriteLine(sum);    
+        sum += matrix[i,j]; 
     }
-   
+    Console.WriteLine($"{sum}");  
 }
+
+Console.WriteLine();
