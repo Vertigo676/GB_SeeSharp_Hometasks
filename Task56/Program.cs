@@ -48,6 +48,5 @@ for( int i = 0; i < matrix.GetLength(0); i++)
         sum += matrix[i,j]; 
     }
     Console.WriteLine($"{sum}");  
-}
-
+}   
 Console.WriteLine();
